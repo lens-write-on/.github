@@ -23,7 +23,6 @@ A two-sided platform where:
 
 - **AI Content Scoring** – Writers are rewarded based on clarity, originality, and virality.
 - **Campaign Creation** – Campaign creators define goals, fund prize pools, and review entries.
-- **Wallet-based Auth** – No email/password needed. Fully Web3-native.
 - **Creator Analytics** – Track submissions, content reach, and ROI in one dashboard.
 - **Token Rewards** – Writers receive tokens for accepted and high-performing content.
 - **Fair & Transparent** – Built with smart contracts and AI scoring logic on Lens Network.
