@@ -26,7 +26,7 @@ A two-sided platform where:
 - **Wallet-based Auth** – No email/password needed. Fully Web3-native.
 - **Creator Analytics** – Track submissions, content reach, and ROI in one dashboard.
 - **Token Rewards** – Writers receive tokens for accepted and high-performing content.
-- **Fair & Transparent** – Built with smart contracts and AI scoring logic on Pharos Network.
+- **Fair & Transparent** – Built with smart contracts and AI scoring logic on Lens Network.
 
 ---
 
@@ -48,11 +48,10 @@ A two-sided platform where:
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Blockchain**: Pharos Network + smart contracts (CampaignFactory, BlogToken, CampaignManager)
-- **AI**: OpenAI-based NLP + custom scoring logic
-- **Wallets**: Sui dApp Kit + Web3 wallet auth
-- **Database**: Prisma ORM with PostgreSQL
+- **AI Scoring**: Automated content analysis for quality, virality, and fit.
+- **Next.js & Tailwind**: Modern, responsive frontend.
+- **Web3**: Crypto rewards, wallet integration, and campaign funding.
+- **Prisma**: Database ORM for campaign and user management.
 
 ---
 
