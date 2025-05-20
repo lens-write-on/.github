@@ -8,14 +8,25 @@ WriteOn is a next-generation, write-to-earn platform that connects writers with 
 
 ---
 
+## 🤔 Problem
+- Web3 Projects struggle to run content campaigns that are cost-efficient and measurable.
+- Writers (Web2 & Web3) are stuck between underpaying platforms and random airdrops.
+- Content quality is hard to judge objectively, leading to low trust and wasted budgets.
+
+## 💡 Solution
+A two-sided platform where:
+- Writers earn from writing high-quality, campaign-aligned content.
+- Campaign creators pay only for performance, verified by AI.
+- AI scores content for virality, clarity, and alignment — a new benchmark for quality.
+
 ## 🚀 Features
 
-- 🧠 **AI Content Scoring** – Writers are rewarded based on clarity, originality, and virality.
-- 🧾 **Campaign Creation** – Campaign creators define goals, fund prize pools, and review entries.
-- 🔐 **Wallet-based Auth** – No email/password needed. Fully Web3-native.
-- 📊 **Creator Analytics** – Track submissions, content reach, and ROI in one dashboard.
-- 💸 **Token Rewards** – Writers receive tokens for accepted and high-performing content.
-- ⚖️ **Fair & Transparent** – Built with smart contracts and AI scoring logic on Pharos Network.
+- **AI Content Scoring** – Writers are rewarded based on clarity, originality, and virality.
+- **Campaign Creation** – Campaign creators define goals, fund prize pools, and review entries.
+- **Wallet-based Auth** – No email/password needed. Fully Web3-native.
+- **Creator Analytics** – Track submissions, content reach, and ROI in one dashboard.
+- **Token Rewards** – Writers receive tokens for accepted and high-performing content.
+- **Fair & Transparent** – Built with smart contracts and AI scoring logic on Pharos Network.
 
 ---
 
@@ -50,14 +61,43 @@ WriteOn is a next-generation, write-to-earn platform that connects writers with 
 ### Prerequisites
 
 - Node.js v18+
-- A Web3 wallet (e.g., MetaMask or Sui Wallet)
-- Git
-
+- MetaMask or compatible Web3 wallet
+  
 ### Setup
 
 ```bash
-git clone https://github.com/writica/writeon.git
-cd writeon
+git clone https://github.com/lens-write-on/write-on-nextjs
+cd write-on-nextjs
 npm install
-cp .env.example .env.local  # Add your env values
+cp env-example .env.local  # Configure your API keys
 npm run dev
+```
+
+> Access the app at `http://localhost:3000`
+
+## 📆 Our Roadmap (2025)
+**Q2 - MVP (Hackathon)**
+- Wallet-based authentication
+- Campaign exploration interface
+- Content submission system
+- Basic campaign creation
+- AI scoring integration
+
+**Q3 - Monetization**
+- On-chain reward distribution
+- Writer reputation system
+
+**Q4 - Ecosystem**
+- Content marketplace
+- DAO voting mechanism
+- Premium monetization for top writers
+
+---
+## 📚 Additional Resources
+- **Demo Video:** [WriteOn Demo Video](https://youtu.be/oWiTPByKY1c)
+- **Pitch Deck:** [WriteOn Pitch Deck](https://drive.google.com/file/d/1IzwvO1SG5mXtJJtPHKSeAECIqfp6KHBO/view?usp=drive_link)
+---
+## 📄 License
+MIT License – see [LICENSE](LICENSE) for full details.
+
+---
