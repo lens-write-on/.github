@@ -33,17 +33,16 @@ A two-sided platform where:
 ## 🧑‍💻 How It Works
 
 ### For Writers:
-1. Connect your wallet
-2. Explore open campaigns
-3. Submit content (Twitter threads, Medium posts, etc.)
-4. Earn rewards based on AI scoring and post performance
+1. Register an account
+2. Browse active campaigns
+3. Submit content linked to a campaign
+4. Earn crypto rewards based on AI scoring and performance
 
 ### For Campaign Creators:
-1. Create a campaign with clear objectives and a prize pool
-2. Define AI scoring metrics (e.g. clarity, engagement, topic fit)
+1. Create a campaign (set objectives, fund pool, define metrics)
+2. Review analytics and content submissions
 3. Review and approve submissions
-4. Track performance and distribute rewards
-
+4. Track performance and distribute rewards automatically via the platform
 ---
 
 ## 🛠️ Tech Stack
